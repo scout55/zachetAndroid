@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SQLiteDatabaseCRUD</string>
+    <string name="add_country">Add Country</string>
+    <string name="enter_country">Enter Country</string>
+    <string name="enter_population">Enter Population</string>
+    <string name="save">Save</string>
+</resources>
